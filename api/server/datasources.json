@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  
+ "rssMongo": {
+    "port": 27017,
+    "url": "mongodb+srv://amkahal:test123456@cluster0.kt8we.mongodb.net/rss?retryWrites=true&w=majority",
+    "database": "collectionName",
+    "name": "rssMongo",
+    "connector": "mongodb"
+  }
+}
